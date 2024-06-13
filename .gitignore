@@ -20,7 +20,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-#modell
-node_modules/
-
-package-lock.json
+#node
+node_modules
